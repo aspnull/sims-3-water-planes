@@ -8,7 +8,7 @@ A companion to **aspnull’s CAW tutorial**: create a lake above sea level, then
 
 1. **[SandrineD’s generator](https://modthesims.info/showthread.php?t=453392&page=1&pp=25)** — download **707.rar from post #25**. Extract it and open `707gen.html` in your browser. Keep `signature.jpg` beside it.
 2. **[Notepad++](https://notepad-plus-plus.org/downloads/)** — install **HEX-Editor** and **Converter** through **Plugins → Plugins Admin** if they are missing.
-3. **[S3PE — SourceForge download](https://sourceforge.net/projects/sims3tools/files/latest/download)** — or browse the [S3PE file list](https://sourceforge.net/projects/sims3tools/files/s3pe/).
+3. **[S3PE — SourceForge download](https://sourceforge.net/projects/sims3tools/files/latest/download)** — or at **[Simlogical](http://www.simlogical.com/ContentUploadsRemote/uploads/189/)**
 
 > You do not need the Bridgeport files or HxD for this method.
 
